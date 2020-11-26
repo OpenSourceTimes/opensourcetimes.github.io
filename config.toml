@@ -31,6 +31,7 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # body_classes = "avenir bg-near-white"
   background_color_class = "bg-black"
   featured_image = "/images/workinprogress.jpg"
   recent_posts_number = 2
