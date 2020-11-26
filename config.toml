@@ -2,7 +2,6 @@ title = "Open Source Times"
 baseURL = "https://opensourcetimes.github.io"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = "themes"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
